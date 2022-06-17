@@ -5,5 +5,5 @@ Todas as questões disponibilizadas neste repositório, são objetos de estudos 
 
 Todas as questões tem, além da descrição, o link de onde foi encontrada.
 
-Aqui, você encontrará questões resolvidas tanto da disciplina como do FUP is FUN!
+Aqui você encontrará questões resolvidas tanto da disciplina como do FUP is FUN!
 
